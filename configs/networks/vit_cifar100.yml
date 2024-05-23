@@ -1,0 +1,12 @@
+network:
+  name: vit_cifar100
+  model: /home1/hezhuolin/9_gh_workspace/OpenOOD-main/OpenOOD-main/openood/networks/ViT2.py   #  vit-base-p16-384.py openood/networks/vit_b_16.py  /home1/hezhuolin/.conda/envs/openood/lib/python3.8/site-packages/timm/models/vision_transformer.py
+  num_classes: '@{dataset.num_classes}'
+  image_size: '@{dataset.image_size}'
+  pretrained: True         # set 'True' to load pretrained model  True
+  checkpoint: /home1/hezhuolin/9_gh_workspace/OpenOOD-main/OpenOOD-main/results/pytorch_model_cifar100.bin   # ./checkpoints/vit-base-p16_in21k-pre-3rdparty_ft-64xb64_in1k-384_20210928-98e8652b.pth  # ignore if pretrained is false
+  num_gpus: '@{num_gpus}'
+dataset:
+  image_size: 224  # 384
+ood_dataset:
+  image_size: 224  # 384

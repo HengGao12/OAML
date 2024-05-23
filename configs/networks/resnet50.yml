@@ -1,0 +1,13 @@
+network:
+  name: resnet50
+  num_classes: '@{dataset.num_classes}'
+  image_size: '@{dataset.image_size}'
+  pretrained: True          # set 'True' to load pretrained model
+
+  # default pretrained model: https://download.pytorch.org/models/resnet50-0676ba61.pth
+  checkpoint: /home1/gaoheng/gh_workspace/OAML/results/pretrained_weights/resnet50_imagenet1k_v1.pth          # ignore if pretrained is false
+  num_gpus: '@{num_gpus}'
+
+# /home1/gaoheng/gh_workspace/GOLDEN_HOOP/results/imagenet_rot_net_rotpred_e30_lr0.001_default/s0/best.ckpt
+# /home1/gaoheng/gh_workspace/GOLDEN_HOOP/results/pretrained_weights/resnet50_imagenet1k_v1.pth
+# /home1/gaoheng/gh_workspace/GOLDEN_HOOP/results/imagenet_rot_net_rotpred_e30_lr0.001_default/s0/best.ckpt

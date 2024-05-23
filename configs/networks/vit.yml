@@ -1,0 +1,12 @@
+network:
+  name: vit  # vit_pretrained
+  model: /home1/gaoheng/anaconda3/envs/openood/lib/python3.8/site-packages/timm/models/vision_transformer.py   #  vit-base-p16-384.py openood/networks/vit_b_16.py
+  num_classes: '@{dataset.num_classes}'
+  image_size: '@{dataset.image_size}'
+  pretrained: True         # set 'True' to load pretrained model  True
+  checkpoint: /home1/gaoheng/gh_workspace/GOLDEN_HOOP/results/pytorch_model.bin   # ./checkpoints/vit-base-p16_in21k-pre-3rdparty_ft-64xb64_in1k-384_20210928-98e8652b.pth  # ignore if pretrained is false  /home1/hezhuolin/9_gh_workspace/OpenOOD-main/OpenOOD-main/results/pytorch_model_cifar100.bin
+  num_gpus: '@{num_gpus}'
+dataset:
+  image_size: 224  # 384
+ood_dataset:
+  image_size: 224  # 384

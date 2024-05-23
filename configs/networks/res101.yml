@@ -1,0 +1,7 @@
+network:
+  name: resnet101_224x224
+  num_classes: '@{dataset.num_classes}'
+  image_size: '@{dataset.image_size}'
+  pretrained: False          # set 'True' to load pretrained model
+  checkpoint: ./results/cifar10_double_label_resnet101_32x32_mos_e100_lr0.003/best.ckpt            # ignore if pretrained is false
+  num_gpus: '@{num_gpus}'

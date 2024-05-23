@@ -1,0 +1,11 @@
+network:
+  name: resnet18_224x224
+  num_classes: '@{dataset.num_classes}'
+  pretrained: True          # set 'True' to load pretrained model
+  checkpoint: /home1/gaoheng/gh_workspace/OAML/results/cifar10_resnet18_224x224_base_e100_lr0.1_default/s0/best.ckpt       # ignore if pretrained is false
+  num_gpus: '@{num_gpus}'
+
+# /home1/gaoheng/gh_workspace/GOLDEN_HOOP/results/cifar10_resnet18_224x224_base_distill_trainer_e500_lr0.01_default_w_fea_n_logits_distill_4kl_8fd_e500/s0/best_epoch469_acc0.9550.ckpt
+# /home1/gaoheng/gh_workspace/GOLDEN_HOOP/results/cifar10_resnet18_224x224_base_distill_trainer_e500_lr0.01_default_w_fea_n_logits_distill_4kl_8fd_e500/s0/best_epoch469_acc0.9550.ckpt
+# /home1/gaoheng/gh_workspace/GOLDEN_HOOP/results/cifar10_resnet18_224x224_base_e100_lr0.1_default/s0/best.ckpt
+# /home1/gaoheng/gh_workspace/GOLDEN_HOOP/results/cifar100_resnet18_224x224_base_e100_lr0.1_default/s0/best.ckpt 
