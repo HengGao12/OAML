@@ -96,6 +96,6 @@ Here we provide pretrained ResNet-18 on CIFAR-10/100 and ImageNet-1k.
 
 
 
-## Acknowledgements
+## Acknowledgments
 
 OAML is developed based on [OpenOOD](https://github.com/Jingkang50/OpenOOD/tree/main) repo. Thanks to their great work.
