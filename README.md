@@ -90,9 +90,9 @@ Here we provide pretrained ResNet-18 on CIFAR-10/100 and ImageNet-1k.
 
 | ID Dataset  |                 Vanilla                  |             Train with OAML              |
 | :---------: | :--------------------------------------: | :--------------------------------------: |
-|  CIFAR-10   | [link](https://onedrive.live.com/?id=F86DF442193FFBCB%21111&cid=F86DF442193FFBCB) | [link](https://onedrive.live.com/?id=F86DF442193FFBCB%21115&cid=F86DF442193FFBCB) |
-|  CIFAR-100  | [link](https://onedrive.live.com/?id=F86DF442193FFBCB%21118&cid=F86DF442193FFBCB) | [link](https://onedrive.live.com/?id=F86DF442193FFBCB%21121&cid=F86DF442193FFBCB) |
-| ImageNet-1k | [link](https://onedrive.live.com/?id=F86DF442193FFBCB%21123&cid=F86DF442193FFBCB) | [link](https://onedrive.live.com/?id=F86DF442193FFBCB%21125&cid=F86DF442193FFBCB) |
+|  CIFAR-10   | [OneDrive](https://onedrive.live.com/?id=F86DF442193FFBCB%21111&cid=F86DF442193FFBCB) | [OneDrive](https://onedrive.live.com/?id=F86DF442193FFBCB%21115&cid=F86DF442193FFBCB) |
+|  CIFAR-100  | [OneDrive](https://onedrive.live.com/?id=F86DF442193FFBCB%21118&cid=F86DF442193FFBCB) | [OneDrive](https://onedrive.live.com/?id=F86DF442193FFBCB%21121&cid=F86DF442193FFBCB) |
+| ImageNet-1k | [OneDrive](https://onedrive.live.com/?id=F86DF442193FFBCB%21123&cid=F86DF442193FFBCB) | [OneDrive](https://onedrive.live.com/?id=F86DF442193FFBCB%21125&cid=F86DF442193FFBCB) |
 
 
 
