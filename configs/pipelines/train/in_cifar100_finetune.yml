@@ -1,0 +1,37 @@
+exp_name: "'@{dataset.name}'_'@{network.name}'_'@{trainer.name}'_e'@{optimizer.num_epochs}'_lr'@{optimizer.lr}'_'@{mark}'_cifar100_finetune_final_2/s'@{seed}'"
+output_dir: ./results/
+save_output: True
+merge_option: default
+mark: default
+seed: 0
+
+num_gpus: 1
+num_workers: 8
+num_machines: 1
+machine_rank: 0
+
+preprocessor:
+  name: base
+
+network:
+  pretrained: True
+
+pipeline:
+  name: finetune_pipeline
+
+trainer:
+  name: finetune_trainer
+
+evaluator:
+  name: base
+
+optimizer:
+  name: adam
+  num_epochs: 50
+  lr: 0.0001
+  # momentum: 0.9
+  # weight_decay: 0.0005
+
+recorder:
+  name: base
+  save_all_models: False
