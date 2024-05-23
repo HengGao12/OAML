@@ -1,0 +1,7 @@
+postprocessor:
+  name: gmme
+  # APS_mode: True
+  # postprocessor_args:
+  #   temperature: 1
+  # postprocessor_sweep:
+  #   temperature_list: [1]
