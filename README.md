@@ -98,4 +98,4 @@ Here we provide pretrained ResNet-18 on CIFAR-10/100 and ImageNet-1k.
 
 ## Acknowledgments
 
-OAML is developed based on [OpenOOD](https://github.com/Jingkang50/OpenOOD/tree/main) and [Pytorch-Image-Models](https://github.com/huggingface/pytorch-image-models). Thanks to their great work.
+OAML is developed based on [OpenOOD](https://github.com/Jingkang50/OpenOOD/tree/main), [Pytorch-Image-Models](https://github.com/huggingface/pytorch-image-models) and [DreamOOD](https://github.com/deeplearning-wisc/dream-ood). Thanks to their great work.
