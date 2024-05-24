@@ -1,6 +1,6 @@
 # OAML: Outlier Aware Metric Learning for OOD Detection Enhancement
 
-> Heng Gao, Zhuolin He, Shoumeng Qiu, Jian Pu
+> Heng Gao, Zhuolin He, Shoumeng Qiu, Jian Pu  Fudan University
 
 ## Overview
 
