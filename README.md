@@ -1,5 +1,7 @@
 # OAML: Outlier Aware Metric Learning for OOD Detection Enhancement
 
+> Heng Gao, Zhuolin He, Shoumeng Qiu, Jian Pu
+
 ## Overview
 
 In this work, we propose an **Outlier Aware Metric Learning (OAML)** framework for generating OOD data in a distribution free manner and learning effectively, which improves OOD detection performance of score functions on various benchemark to a great extent.
