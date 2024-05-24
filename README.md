@@ -89,7 +89,7 @@ bash scripts/ood/cifar10_test_ood_ebo.sh
 
 ## Model Zoo
 
-Here we provide pretrained ResNet-18 on CIFAR-10/100 and ImageNet-1k.
+Here we provide pre-trained ResNet-18 on CIFAR-10/100 and ImageNet-1k.
 
 | ID Dataset  |                 Vanilla                  |             Train with OAML              |
 | :---------: | :--------------------------------------: | :--------------------------------------: |
