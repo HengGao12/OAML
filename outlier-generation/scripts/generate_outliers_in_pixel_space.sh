@@ -1,5 +1,5 @@
 export CUDA_VISIBLE_DEVICES='1'
-python outlier-generation.py --plms \
+python ../outlier-generation.py --plms \
     --n_iter 50 --n_samples 3 \
     --outdir /home1/gaoheng/gh_workspace/outlier-generation/nobackup-fast/txt2img-samples-in1k-demo/ \
     --loaded_embedding /home1/gaoheng/gh_workspace/outlier-generation/cifar100_outlier_npos_embed_noise_0.07_select_50_KNN_300.npy \
