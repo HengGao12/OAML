@@ -3,7 +3,7 @@
 > Heng Gao, Zhuolin He, Shoumeng Qiu, Jian Pu  
 Fudan University
 
-## Overview
+## 🚀Overview
 
 In this work, we propose an **Outlier Aware Metric Learning (OAML)** framework. OAML mainly addresses the following issues in outlier exposure training for OOD detection: 
 - How to prevent the ID performance degradation when training with OOD data;
@@ -12,7 +12,7 @@ In this work, we propose an **Outlier Aware Metric Learning (OAML)** framework. 
 To address these problems, we introduce knowledge distillation techniques to prevent ID accuracy decreasing. On the other hand, we generate and train OOD samples in the latent space to enlarge the ID/OOD distribution discrepancies.
 ![image](fig/pipeline.png)
 
-## Usage
+## ✅Usage
 
 ### Installation
 
@@ -111,7 +111,7 @@ bash scripts/basics/imagenet/train_imagenet1k_oaml.sh
 bash scripts/ood/cifar10_test_ood_ebo.sh
 ```
 
-## Model Zoo
+## 📑Model Zoo
 
 Here we provide pre-trained ResNet-18 on CIFAR-10/100 and ImageNet-1k.
 
