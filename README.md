@@ -9,7 +9,7 @@ In this work, we propose an **Outlier Aware Metric Learning (OAML)** framework. 
 - How to prevent the ID performance degradation when training with OOD data;
 - How to collect and train with outliers effectively.  
   
-To address these problems, we introduce knowledge distillation techniques to prevent ID accuracy decreasing. On the other hand, we generate and train OOD samples in the latent space for enlarging the ID/OOD distribution discrepancies.
+To address these problems, we introduce knowledge distillation techniques to prevent ID accuracy decreasing. On the other hand, we generate and train OOD samples in the latent space to enlarge the ID/OOD distribution discrepancies.
 ![image](fig/pipeline.png)
 
 ## Usage
