@@ -75,14 +75,14 @@ Our codebase accesses the datasets from `./data/` and pretrained models from `./
 
 The first step outlier sample by k-NN
 ```python
-python scripts/get_embed_cifar100.py
+python outlier-generation/scripts/get_embed_cifar100.py
 ```
 
 
 The second step outlier generation via pre-trained Stable Diffusion
 
 ```python
-python scripts/dream_ood.py --plms \
+python outlier-generation/scripts/dream_ood.py --plms \
 --n_iter 50 --n_samples 3 \
 --outdir /nobackup-fast/txt2img-samples-in100-demo/ \
 --loaded_embedding /nobackup-slow/dataset/my_xfdu/diffusion/outlier_npos_embed.npy\
