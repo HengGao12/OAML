@@ -74,7 +74,6 @@ Our codebase accesses the datasets from `./data/` and pretrained models from `./
 ### Outlier Synthesis in Latent Space
 
 ```sh
-# Train with OAML on CIAFR-10
 python scripts/dream_ood.py --plms \
 --n_iter 50 --n_samples 3 \
 --outdir /nobackup-fast/txt2img-samples-in100-demo/ \
