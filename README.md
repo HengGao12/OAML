@@ -33,7 +33,7 @@ pip install -e .
 pip install timm
 ```
 
-In order to better adapt to the OpenOOD framework, we changed the  `vision_transformer.py`  in the timm library as follows:
+In order to better adapt to the OpenOOD framework, we changed the  `vision_transformer.py`  in the [Pytorch-Image-Models](https://github.com/huggingface/pytorch-image-models) library as follows:
 
 ```python
 ...
