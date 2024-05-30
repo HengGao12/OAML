@@ -9,7 +9,7 @@ In this work, we propose an **Outlier Aware Metric Learning (OAML)** framework. 
 - How to prevent the ID performance degradation when training with OOD data;
 - How to collect and train with outliers effectively.
 
-![image](fig/pipeline.jpg)
+![image](fig/pipeline.png)
 
 ## Usage
 
