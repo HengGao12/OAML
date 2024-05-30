@@ -3,6 +3,8 @@
 > Heng Gao, Zhuolin He, Shoumeng Qiu, Jian Pu  
 Fudan University
 
+---
+
 ## 🚀Overview
 
 In this work, we propose an **Outlier Aware Metric Learning (OAML)** framework. OAML mainly addresses the following issues in outlier exposure training for OOD detection: 
