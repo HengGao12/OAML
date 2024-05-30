@@ -84,10 +84,10 @@ The second step outlier generation via pre-trained Stable Diffusion
 ```python
 python outlier-generation/scripts/dream_ood.py --plms \
 --n_iter 50 --n_samples 3 \
---outdir /nobackup-fast/txt2img-samples-in100-demo/ \
+--outdir /nobackup-fast/txt2img-samples-cifar100-demo/ \
 --loaded_embedding /nobackup-slow/dataset/my_xfdu/diffusion/outlier_npos_embed.npy\
 --ckpt /nobackup-slow/dataset/my_xfdu/diffusion/sd-v1-4.ckpt \
---id_data in100 \
+--id_data cifar100 \
 --skip_grid
 ```
 
