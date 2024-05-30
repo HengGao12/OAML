@@ -73,7 +73,15 @@ Our codebase accesses the datasets from `./data/` and pretrained models from `./
 
 ### Outlier Synthesis in Latent Space
 
-```sh
+The first step outlier sample by k-NN
+```python
+python scripts/get_embed_cifar100.py
+```
+
+
+The second step outlier generation via pre-trained Stable Diffusion
+
+```python
 python scripts/dream_ood.py --plms \
 --n_iter 50 --n_samples 3 \
 --outdir /nobackup-fast/txt2img-samples-in100-demo/ \
