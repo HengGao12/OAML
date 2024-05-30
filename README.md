@@ -5,7 +5,9 @@ Fudan University
 
 ## Overview
 
-In this work, we propose an **Outlier Aware Metric Learning (OAML)** framework for generating OOD data in a distribution free manner and learning effectively, which improves OOD detection performance of score functions on various benchemark to a great extent.
+In this work, we propose an **Outlier Aware Metric Learning (OAML)** framework. OAML mainly addresses the following issues in outlier exposure training for OOD detection: 
+- How to prevent the ID performance degradation when training with OOD data;
+- How to collect and train with outliers effectively.
 
 ![image](fig/pipeline.jpg)
 
