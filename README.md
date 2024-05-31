@@ -7,7 +7,7 @@ Fudan University
 
 ## 🚀Overview
 
-In this work, we propose an **Outlier Aware Metric Learning (OAML)** framework. OAML mainly addresses the following issues in outlier exposure training for Out-of-Distribution detection: 
+In this work, we propose an **Outlier Aware Metric Learning (OAML)** framework. OAML mainly addresses the following issues in outlier exposure training for Out-of-Distribution (OOD) detection: 
 - How to prevent the In-Distribution (ID) performance degradation when training with OOD data;
 - How to collect and train with outliers effectively.  
   
@@ -96,7 +96,7 @@ python outlier-generation/scripts/dream_ood.py --plms \
 
 ### Training and Testing
 
-##### Training
+##### OAML Training
 
 ```sh
 # Train with OAML on CIAFR-10
@@ -107,7 +107,7 @@ bash scripts/basics/cifar100/train_cifar100_oaml.sh
 bash scripts/basics/imagenet/train_imagenet1k_oaml.sh
 ```
 
-##### Testing
+##### OOD Testing
 
 ```sh
 # Test on CIFAR-10 with EBO score
