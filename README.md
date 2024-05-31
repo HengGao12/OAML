@@ -11,8 +11,9 @@ In this work, we propose an **Outlier Aware Metric Learning (OAML)** framework. 
 - How to prevent the In-Distribution (ID) performance degradation when training with OOD data;
 - How to collect and train with outliers effectively.  
   
-To address these problems, we introduce knowledge distillation techniques to prevent ID accuracy decreasing. On the other hand, we generate and train OOD samples in the latent space to enlarge ID/OOD feature discrepancies.
-![image](fig/pipeline.png)
+To address these problems, we introduce knowledge distillation techniques to prevent ID accuracy decreasing. On the other hand, we generate and train OOD samples in the latent space to enlarge ID/OOD feature discrepancies.  
+
+![image](fig/oaml-pipeline.png)
 
 ## ✅Usage
 
@@ -113,6 +114,9 @@ bash scripts/basics/imagenet/train_imagenet1k_oaml.sh
 # Test on CIFAR-10 with EBO score
 bash scripts/ood/cifar10_test_ood_ebo.sh
 ```
+
+## 🔭Score Distribution  Visualization
+![image](fig/Score-Distribution.png)
 
 ## 📑Model Zoo
 
