@@ -117,7 +117,7 @@ bash scripts/ood/cifar10_test_ood_ebo.sh
 
 ## 🔭Score Distribution  Visualization
 ![image](fig/Score-Distribution.png)
-**OAML** reduce the variance of score distribution on both ID and OOD data. The overlap between two distributions is also minished.
+**OAML** reduces the variance of score distribution on both ID and OOD data. The overlap between two distributions is also minished.
 
 ## 📑Model Zoo
 
