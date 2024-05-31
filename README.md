@@ -7,11 +7,11 @@ Fudan University
 
 ## 🚀Overview
 
-In this work, we propose an **Outlier Aware Metric Learning (OAML)** framework. OAML mainly addresses the following issues in outlier exposure training for OOD detection: 
-- How to prevent the ID performance degradation when training with OOD data;
+In this work, we propose an **Outlier Aware Metric Learning (OAML)** framework. OAML mainly addresses the following issues in outlier exposure training for Out-of-Distribution detection: 
+- How to prevent the In-Distribution (ID) performance degradation when training with OOD data;
 - How to collect and train with outliers effectively.  
   
-To address these problems, we introduce knowledge distillation techniques to prevent ID accuracy decreasing. On the other hand, we generate and train OOD samples in the latent space to enlarge the ID/OOD distribution discrepancies.
+To address these problems, we introduce knowledge distillation techniques to prevent ID accuracy decreasing. On the other hand, we generate and train OOD samples in the latent space to enlarge ID/OOD feature discrepancies.
 ![image](fig/pipeline.png)
 
 ## ✅Usage
