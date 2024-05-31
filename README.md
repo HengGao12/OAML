@@ -76,7 +76,7 @@ Our codebase accesses the datasets from `./data/` and pretrained models from `./
 ### Outlier Synthesis in Latent Space
 To synthesize outliers for outlier exposure training, please refer to [DreamOOD](https://github.com/deeplearning-wisc/dream-ood) code repository for installation. Note that, here we use `xformers==0.0.13`.
 
-The first step outlier sample by k-NN
+The first step outlier sampling by k-NN
 ```python
 python outlier-generation/scripts/get_embed_cifar100.py
 ```
