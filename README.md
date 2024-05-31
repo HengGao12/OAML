@@ -83,7 +83,7 @@ python outlier-generation/scripts/get_embed_cifar100.py
 ```
 
 
-The second step outlier generation via pre-trained Stable Diffusion， please run the following code.
+The second step outlier generation via pre-trained Stable Diffusion，please run the following code.
 
 ```python
 python outlier-generation/scripts/dream_ood.py --plms \
