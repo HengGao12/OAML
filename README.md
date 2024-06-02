@@ -77,7 +77,7 @@ Our codebase accesses the datasets from `./data/` and pretrained models from `./
 ├── ...
 ```
 
-### Outlier Synthesis in Latent Space
+### Outlier Synthesis in the Latent Space
 To synthesize OOD samples for outlier exposure training, please refer to [DreamOOD](https://github.com/deeplearning-wisc/dream-ood) code repository for installation. Note that, here we use `xformers==0.0.13`.
 
 The first step outlier sampling by k-NN, please run the following command.
