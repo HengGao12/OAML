@@ -113,7 +113,7 @@ Our generated outliers are given in the following links, please download these d
 ### Training and Testing
 
 #### 📝Teacher Model Pretrained Weights
-Here is the pretrained weights for Knowledge Distillation.
+Here is the pretrained weights of teacher models for Knowledge Distillation.
 
 | In-Distribution Dataset  |                 In-Distribution Accuracy                  |                 Download Links                  |
 | :---------: | :--------------------------------------: | :--------------------------------------: |  
