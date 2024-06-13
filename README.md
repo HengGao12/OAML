@@ -103,7 +103,7 @@ Our generated outliers are given in the following links, please download these d
 | In-Distribution Dataset  |                 Links                  |
 | :---------: | :--------------------------------------: |
 |  CIFAR-10   | [OneDrive](https://1drv.ms/f/s!Aihou-LHrVY1bWNNPOih97TctNw?e=YpflCR) |
-|  CIFAR-100  | [OneDrive](https://1drv.ms/f/s!Aihou-LHrVY1bttqkBgZK3Jj7dI?e=u9zge7) |
+|  CIFAR-100  | [OneDrive](https://1drv.ms/f/s!Aihou-LHrVY1bttqkBgZK3Jj7dI?e=tbsIBa) |
 | ImageNet-1k | [GoogleDrive](https://drive.google.com/file/d/1pWWEhaYSH7sNKCQ4wdbTMOgRmZATdOiS/view?usp=sharing) |  
 
 #### 👽OOD Data Visualization Using CIFAR-100 as ID Data
