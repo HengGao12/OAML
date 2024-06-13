@@ -139,7 +139,7 @@ Our generated outliers are given in the following links.
 | :---------: | :--------------------------------------: |
 |  CIFAR-10   | [OneDrive](https://1drv.ms/f/s!Aihou-LHrVY1bWNNPOih97TctNw?e=YpflCR) |
 |  CIFAR-100  | [OneDrive](https://1drv.ms/f/s!Aihou-LHrVY1bttqkBgZK3Jj7dI?e=u9zge7) |
-| ImageNet-1k | [OneDrive](https://1drv.ms/f/s!AlJaja8mSaMggS8aZawLAtjLKw8y?e=AHEyjV) |
+| ImageNet-1k | [OneDrive]() |
 
 
 ## 🎯 Acknowledgments
