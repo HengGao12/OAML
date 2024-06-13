@@ -98,7 +98,7 @@ python outlier-generation/scripts/dream_ood.py --plms \
 --skip_grid
 ```
 #### 📝Generated Outliers
-Our generated outliers are given in the following links.
+Our generated outliers are given in the following links, please download these data and load correctly when using OAML for training.
 
 | In-Distribution Dataset  |                 Links                  |
 | :---------: | :--------------------------------------: |
