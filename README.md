@@ -115,11 +115,11 @@ Our generated outliers are given in the following links, please download these d
 #### 📝Teacher Model Pretrained Weights
 Here is the pretrained weights for Knowledge Distillation.
 
-| In-Distribution Dataset  |                 Download Links                  |
-| :---------: | :--------------------------------------: |
-|  CIFAR-10   | [OneDrive](https://1drv.ms/f/s!Aihou-LHrVY1bWNNPOih97TctNw?e=YpflCR) |
-|  CIFAR-100  | [OneDrive](https://1drv.ms/f/s!Aihou-LHrVY1bttqkBgZK3Jj7dI?e=tbsIBa) |
-| ImageNet-1k | [GoogleDrive](https://drive.google.com/file/d/1pWWEhaYSH7sNKCQ4wdbTMOgRmZATdOiS/view?usp=sharing) |  
+| In-Distribution Dataset  |                 In-Distribution Accuracy                  |                 Download Links                  |
+| :---------: | :--------------------------------------: | :--------------------------------------: |  
+|  CIFAR-10   |  |  |
+|  CIFAR-100  |  |  |
+| ImageNet-1k |  |  |
 
 
 ##### OAML Training
