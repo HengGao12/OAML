@@ -106,7 +106,7 @@ Our generated outliers are given in the following links.
 |  CIFAR-100  | [OneDrive](https://1drv.ms/f/s!Aihou-LHrVY1bttqkBgZK3Jj7dI?e=u9zge7) |
 | ImageNet-1k | [GoogleDrive]() |  
 
-#### OOD Data Visualization
+#### 👽OOD Data Visualization Using CIFAR-100 as ID Data
 ![image](fig/deep-OOD-generation.jpg)
 
 
