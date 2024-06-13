@@ -107,7 +107,7 @@ Our generated outliers are given in the following links.
 | ImageNet-1k | [GoogleDrive]() |  
 
 #### OOD Data Visualization
-[!image](fig/deep OOD generation.png)
+[!image](fig/deep OOD generation.jpg)
 
 
 ### Training and Testing
