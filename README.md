@@ -137,7 +137,7 @@ Our generated outliers are given in the following links.
 
 | In-Distribution Dataset  |                 Vanilla                  |
 | :---------: | :--------------------------------------: |
-|  CIFAR-10   | [OneDrive](https://1drv.ms/f/s!AlJaja8mSaMgeRL8EB3OjNC_SS4?e=E0152U) |
+|  CIFAR-10   | [OneDrive](https://1drv.ms/f/s!Aihou-LHrVY1bWNNPOih97TctNw?e=YpflCR) |
 |  CIFAR-100  | [OneDrive](https://1drv.ms/f/s!AlJaja8mSaMggSjwQLLYTwSp8lIp?e=gZ9LtV) |
 | ImageNet-1k | [OneDrive](https://1drv.ms/f/s!AlJaja8mSaMggS8aZawLAtjLKw8y?e=AHEyjV) |
 
