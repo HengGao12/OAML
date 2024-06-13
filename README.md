@@ -113,9 +113,9 @@ Our generated outliers are given in the following links, please download these d
 ### Training and Testing
 
 #### 📝Teacher Model Pretrained Weights
-Our generated outliers are given in the following links, please download these data and load correctly when using OAML for training.
+Here is the pretrained weights for Knowledge Distillation.
 
-| In-Distribution Dataset  |                 Links                  |
+| In-Distribution Dataset  |                 Download Links                  |
 | :---------: | :--------------------------------------: |
 |  CIFAR-10   | [OneDrive](https://1drv.ms/f/s!Aihou-LHrVY1bWNNPOih97TctNw?e=YpflCR) |
 |  CIFAR-100  | [OneDrive](https://1drv.ms/f/s!Aihou-LHrVY1bttqkBgZK3Jj7dI?e=tbsIBa) |
