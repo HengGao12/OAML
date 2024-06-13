@@ -132,7 +132,9 @@ Here we provide pre-trained ResNet-18 on CIFAR-10/100 and ImageNet-1k.
 |  CIFAR-100  | [OneDrive](https://1drv.ms/f/s!AlJaja8mSaMggSjwQLLYTwSp8lIp?e=gZ9LtV) | [OneDrive](https://1drv.ms/f/s!AlJaja8mSaMggSA3a14RbDuAqWhB?e=JcoF5i) |
 | ImageNet-1k | [OneDrive](https://1drv.ms/f/s!AlJaja8mSaMggS8aZawLAtjLKw8y?e=AHEyjV) | [OneDrive](https://1drv.ms/f/s!AlJaja8mSaMggRJz5zGlcOZNxy8b?e=l9RCYY) |
 
-
+## 📝Generated Outliers
+Our generated outliers are given in the following links.
+[OneDrive](https://1drv.ms/f/s!Aihou-LHrVY1axcTjxBhY56jD9Q?e=4EBViN)
 
 ## 🎯 Acknowledgments
 
