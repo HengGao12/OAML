@@ -117,6 +117,7 @@ bash scripts/basics/imagenet/train_imagenet1k_oaml.sh
 # Test on CIFAR-10 with EBO score
 bash scripts/ood/cifar10_test_ood_ebo.sh
 ```
+⚠️Before running this command, please load the oaml-trained model weights for testing!
 
 ## 🔭Score Distribution  Visualization
 ![image](fig/Score-Distribution.png)
