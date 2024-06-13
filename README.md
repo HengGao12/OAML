@@ -97,6 +97,15 @@ python outlier-generation/scripts/dream_ood.py --plms \
 --id_data cifar100 \
 --skip_grid
 ```
+#### 📝Generated Outliers
+Our generated outliers are given in the following links.
+
+| In-Distribution Dataset  |                 Links                  |
+| :---------: | :--------------------------------------: |
+|  CIFAR-10   | [OneDrive](https://1drv.ms/f/s!Aihou-LHrVY1bWNNPOih97TctNw?e=YpflCR) |
+|  CIFAR-100  | [OneDrive](https://1drv.ms/f/s!Aihou-LHrVY1bttqkBgZK3Jj7dI?e=u9zge7) |
+| ImageNet-1k | [GoogleDrive]() |  
+
 
 ### Training and Testing
 
@@ -131,17 +140,7 @@ Here we provide pre-trained ResNet-18 on CIFAR-10/100 and ImageNet-1k.
 | :---------: | :--------------------------------------: | :--------------------------------------: |
 |  CIFAR-10   | [OneDrive](https://1drv.ms/f/s!AlJaja8mSaMgeRL8EB3OjNC_SS4?e=E0152U) | [OneDrive](https://1drv.ms/f/s!AlJaja8mSaMggQtLPV3xHKfYuF2A?e=4Xrub2) |
 |  CIFAR-100  | [OneDrive](https://1drv.ms/f/s!AlJaja8mSaMggSjwQLLYTwSp8lIp?e=gZ9LtV) | [OneDrive](https://1drv.ms/f/s!AlJaja8mSaMggSA3a14RbDuAqWhB?e=JcoF5i) |
-| ImageNet-1k | [OneDrive](https://1drv.ms/f/s!AlJaja8mSaMggS8aZawLAtjLKw8y?e=AHEyjV) | [OneDrive](https://1drv.ms/f/s!AlJaja8mSaMggRJz5zGlcOZNxy8b?e=l9RCYY) |
-
-## 📝Generated Outliers
-Our generated outliers are given in the following links.
-
-| In-Distribution Dataset  |                 Links                  |
-| :---------: | :--------------------------------------: |
-|  CIFAR-10   | [OneDrive](https://1drv.ms/f/s!Aihou-LHrVY1bWNNPOih97TctNw?e=YpflCR) |
-|  CIFAR-100  | [OneDrive](https://1drv.ms/f/s!Aihou-LHrVY1bttqkBgZK3Jj7dI?e=u9zge7) |
-| ImageNet-1k | [GoogleDrive]() |
-
+| ImageNet-1k | [OneDrive](https://1drv.ms/f/s!AlJaja8mSaMggS8aZawLAtjLKw8y?e=AHEyjV) | [OneDrive](https://1drv.ms/f/s!AlJaja8mSaMggRJz5zGlcOZNxy8b?e=l9RCYY) |  
 
 ## 🎯 Acknowledgments
 
