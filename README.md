@@ -11,7 +11,7 @@ In this work, we propose an **Outlier Aware Metric Learning (OAML)** framework. 
 - How to sample outliers via Stable Diffusion in latent space;
 - How to prevent In-Distribution (ID) performance degradation when training with OOD data.  
   
-To tackle these problems, we first take the noisy features obtained in the forward diffusion process as outliers for training. Then, we develope mutual information-based contrastive learning loss to enlarge ID/OOD feature discrepancies in semantic space. To prevent ID accuracy decreasing, we introduce knowledge distillation to transfer ID information from the large teacher model to small models, which is also proved to have beneficial for OOD detection results.
+To tackle these problems, we first take the noisy features obtained in the forward diffusion process as outliers for training. Then, we develop mutual information-based contrastive learning loss to enlarge ID/OOD feature discrepancies in semantic space. To prevent ID accuracy decreasing, we introduce knowledge distillation to transfer ID information from the large teacher model to small models, which is also proved to have beneficial for OOD detection results.
 
 ![image](fig/oaml-pipeline.png)
 
