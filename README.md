@@ -17,9 +17,6 @@ To tackle these problems, we first take the noisy features obtained in the forwa
 
 ![image](fig/oaml-pipeline.png)
 
-## 📆Updates
-
-
 ## ✅Usage
 
 ### Installation
