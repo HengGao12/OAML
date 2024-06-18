@@ -1,3 +1,4 @@
+![image](fig/1.png)
 # OAML: Outlier Aware Metric Learning for OOD Detection Enhancement
 
 > Heng Gao, Zhuolin He, Shoumeng Qiu, Jian Pu  
