@@ -9,7 +9,9 @@ Fudan University
 
 In this work, we propose an **Outlier Aware Metric Learning (OAML)** framework. OAML mainly addresses the following issues in outlier exposure training for Out-of-Distribution (OOD) detection: 
 - How to sample outliers via Stable Diffusion in latent space;
-- How to prevent In-Distribution (ID) performance degradation when training with OOD data.  
+- How to prevent In-Distribution (ID) performance degradation when training with OOD data.
+
+![image](fig/id-degrade.png)
   
 To tackle these problems, we first take the noisy features obtained in the forward diffusion process as outliers for training. Then, we develop mutual information-based OOD-aware contrastive learning methods to enlarge ID/OOD feature discrepancies in semantic space. Both theoretical and experimental guarantees are given to verify the effectiveness of this contrastive learning approach. Aided by knowledge distillation, the ID accuracy does not degrade significantly when training with outliers.
 
