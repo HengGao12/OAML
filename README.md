@@ -7,7 +7,7 @@ Fudan University
 
 ## 🚀Overview
 
-In this work, we propose an **Outlier Aware Metric Learning (OAML)** framework. OAML mainly addresses the following issues in outlier exposure training for Out-of-Distribution (OOD) detection: 
+In our research, we propose an **Outlier Aware Metric Learning (OAML)** framework. OAML mainly addresses the following issues in outlier exposure training for Out-of-Distribution (OOD) detection: 
 - How to sample outliers via Stable Diffusion in latent space;
 - How to prevent In-Distribution (ID) performance degradation when training with OOD data.
 
