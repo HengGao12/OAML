@@ -18,7 +18,7 @@ To tackle these problems, we first take the noisy features obtained in the forwa
 ![image](fig/oaml-pipeline.png)
 
 ## 📆Update
-- 2024.6.24, Our paper is submitted to arxiv.
+- 2024.6.24, Our paper is submitted to arXiv.
 
 ## ✅Usage
 
