@@ -15,8 +15,6 @@ In our research, we propose an **Outlier Aware Metric Learning (OAML)** framewor
   
 To tackle these problems, we first take the noisy features obtained in the forward diffusion process as outliers for training. Then, we develop mutual information-based OOD-aware contrastive learning methods to enlarge ID/OOD feature discrepancies in semantic space. Both theoretical and experimental guarantees are given to verify the effectiveness of this contrastive learning approach. Aided by knowledge distillation, the ID accuracy does not degrade significantly when training with outliers.
 
-![image](fig/oaml-pipeline.png)
-
 ## 📆Update
 - 2024.6.24, Our paper is submitted to arXiv.
 
