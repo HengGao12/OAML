@@ -160,6 +160,16 @@ Here we provide pre-trained ResNet-18 on CIFAR-10/100 and ImageNet-1k.
 OAML is developed based on [OpenOOD](https://github.com/Jingkang50/OpenOOD/tree/main), [Pytorch-Image-Models](https://github.com/huggingface/pytorch-image-models) and [DreamOOD](https://github.com/deeplearning-wisc/dream-ood). Thanks to their great works.
 
 ## Citation
-
+```
+@misc{gao2024oamloutlierawaremetric,
+      title={OAML: Outlier Aware Metric Learning for OOD Detection Enhancement}, 
+      author={Heng Gao and Zhuolin He and Shoumeng Qiu and Jian Pu},
+      year={2024},
+      eprint={2406.16525},
+      archivePrefix={arXiv},
+      primaryClass={stat.ML},
+      url={https://arxiv.org/abs/2406.16525}, 
+}
+```
 ## Contact
 **⚠️This repository is currently maintained by [Heng Gao](henggao12.github.io). Please contact the author if you have any question about the code.** 
