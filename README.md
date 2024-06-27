@@ -173,4 +173,4 @@ If you find **OAML** useful or inspiring, please consider citing our paper:
 }
 ```
 ## Contact
-**⚠️This repository is currently maintained by [Heng Gao](henggao12.github.io). Please contact the author if you have any question about the code.** 
+**⚠️This repository is currently maintained by [Heng Gao](https://henggao12.github.io). Please contact the author if you have any question about the code.** 
