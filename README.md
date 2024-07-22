@@ -8,7 +8,6 @@ Fudan University
 ## 🚀Overview
 
 ## 📆Update
-- 2024.6.24, Our paper is submitted to arXiv.
 
 ## ✅Usage
 
