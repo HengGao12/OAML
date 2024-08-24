@@ -4,11 +4,6 @@
 Fudan University
 
 ---
-
-## 🚀Overview
-
-## 📆Update
-
 ## ✅Usage
 
 ### Installation
