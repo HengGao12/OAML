@@ -148,8 +148,8 @@ OAML is developed based on [OpenOOD](https://github.com/Jingkang50/OpenOOD/tree/
 ## Citation
 If you find **OAML** useful in your research, please consider citing:
 ```
-@misc{gao2024oamloutlierawaremetric,
-      title={OAML: Outlier Aware Metric Learning for OOD Detection Enhancement}, 
+@misc{gao2024oalenhancingooddetection,
+      title={OAL: Enhancing OOD Detection Using Latent Diffusion}, 
       author={Heng Gao and Zhuolin He and Shoumeng Qiu and Jian Pu},
       year={2024},
       eprint={2406.16525},
